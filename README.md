@@ -6,10 +6,10 @@ Requisitos
 Python 3.x instalado en tu sistema.
 Ejecución
 Clona este repositorio o descarga el archivo race.py.
-Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo race.py.
+Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo Carrera_cochecitos.py.
 Ejecuta el siguiente comando para iniciar la carrera:
 Copy code
-python race.py
+python Carrera_cochecitos.py
 Descripción del código
 start_race(): Esta función muestra una secuencia de luces de semáforo para indicar el inicio de la carrera.
 race(track_length): Esta función principal inicia la carrera, crea las pistas con obstáculos aleatorios, mueve los vehículos y verifica quién gana.
